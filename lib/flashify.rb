@@ -1,5 +1,8 @@
 require "flashify/version"
 
 module Flashify
-  # Your code goes here...
+  module Rails
+    class Engine < ::Rails::Engine
+    end
+  end
 end
