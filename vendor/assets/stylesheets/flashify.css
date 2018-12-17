@@ -1,0 +1,47 @@
+.flashify{
+  position: fixed;
+  z-index: 99999;
+  font-size: 1.4rem;
+  color: #fff;
+  padding: 15px 20px;
+  opacity: 0.8;
+  text-align: left;
+  min-width: 5%;
+  max-width: 70%;
+}
+
+.flashify.success{background-color: #4CAF50;}
+.flashify.error{background-color: #f44336;}
+.flashify.warning{background-color: #ff9800;}
+.flashify.notice{background-color: #2B5C7F;}
+.flashify.alert{background-color: #2196F3;}
+
+.flashify-top-right{
+  right: 2%;
+  top: 7%;
+}
+
+.flashify-top-left{
+  left: 2%;
+  top: 5%;
+}
+
+.flashify-top-middle{
+  top: 7%;
+  left: 40%;
+}
+
+.flashify-center{
+  top: 50%;
+  left: 40%;
+}
+
+.flashify-bottom-right{
+  right: 2%;
+  bottom: 5%;
+}
+
+.flashify-bottom-left{
+  left: 2%;
+  bottom: 5%;
+}
