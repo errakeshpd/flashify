@@ -4,17 +4,18 @@
   font-size: 1.4rem;
   color: #fff;
   padding: 15px 20px;
-  opacity: 0.8;
+  opacity: 1;
   text-align: left;
   min-width: 5%;
   max-width: 70%;
 }
 
-.flashify.success{background-color: #4CAF50;}
-.flashify.error{background-color: #f44336;}
-.flashify.warning{background-color: #ff9800;}
-.flashify.notice{background-color: #2B5C7F;}
-.flashify.alert{background-color: #2196F3;}
+.flashify.success{background-color: #66BB6A;}
+.flashify.error{background-color: #EF5350;}
+.flashify.warning{background-color: #FFEA00;}
+.flashify.notice{background-color: #2196F3;}
+.flashify.alert{background-color: #EC407A;}
+
 
 .flashify-top-right{
   right: 2%;
