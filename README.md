@@ -19,9 +19,11 @@ Or install it yourself as:
     $ gem install flashify
 
 And then add to your application.css
+
     *= require flashify
 
 And then add to your application.js
+
     //= require flashify
 
 
