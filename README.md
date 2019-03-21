@@ -38,6 +38,17 @@ Add this tag to your main layouts
 <% end %>
 ```
 
+
+Use this methods to your controller
+
+```ruby
+flash[:success] = "User is saved"
+flash[:error] = "User not saved"
+flash[:info] = "He is already exist"
+flash[:warning] = "He is already a teacher"
+```
+
+
 ## Customisation
 
 Align the flash position by changing the class of span tag.
