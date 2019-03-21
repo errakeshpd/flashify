@@ -2,6 +2,9 @@
 
 Animated colored flash messages to your website with few lines of code.
 
+
+![](http://g.recordit.co/2IohWuYJKD.gif)
+
 ## Installation
 
 Add this line to your application's Gemfile:
